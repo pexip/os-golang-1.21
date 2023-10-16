@@ -1,3 +1,9 @@
+golang-1.21 (1.21.3-1pexip1) pexip; urgency=medium
+
+  * New upstream release
+
+ -- Huw Jones <huw@pexip.com>  Mon, 16 Oct 2023 11:44:55 +0100
+
 golang-1.21 (1.21.3-1) unstable; urgency=medium
 
   * Team upload
