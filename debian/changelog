@@ -1,3 +1,9 @@
+golang-1.21 (1.21.4-1pexip2) pexip-bookworm; urgency=medium
+
+  * Upload to bookworm.
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 30 Nov 2023 15:35:02 +0000
+
 golang-1.21 (1.21.4-1pexip1) pexip; urgency=medium
 
   * New upstream release
