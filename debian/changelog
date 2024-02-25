@@ -1,3 +1,9 @@
+golang-1.21 (1.21.7-1+pexip24u1) pexip; urgency=medium
+
+  * New upstream release
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Sun, 25 Feb 2024 12:08:22 +0000
+
 golang-1.21 (1.21.7-1) unstable; urgency=medium
 
   * Team upload
